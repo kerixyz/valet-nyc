@@ -16,13 +16,28 @@ export default function Footer() {
                 {/* Logo */}
                 Valet NYC
               </div>
-              <div className="text-gray-400">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</div>
+              <div className="text-gray-400">
+                Five Star Hotel Services In Your Residence <br/>
+                Your residential building can be our next client!
+              </div>
+            </div>
+
+            <div className="md:col-span-4 lg:col-span-5">
+              <div className="mb-2">
+                {/* Logo */}
+                Contact Us
+              </div>
+              <div className="text-gray-400">
+                55 West 25th Street<br/>
+                New York, NY 10010<br/>
+                info@valetnyc.com<br/>
+                (347)972-4899
+              </div>
             </div>
 
             {/* 2nd, 3rd and 4th blocks */}
-            <div className="md:col-span-8 lg:col-span-7 grid sm:grid-cols-3 gap-8">
+            {/* <div className="md:col-span-8 lg:col-span-7 grid sm:grid-cols-3 gap-8">
 
-              {/* 2nd block */}
               <div className="text-sm">
                 <h6 className="text-gray-200 font-medium mb-1">Products</h6>
                 <ul>
@@ -38,7 +53,7 @@ export default function Footer() {
                 </ul>
               </div>
 
-              {/* 3rd block */}
+
               <div className="text-sm">
                 <h6 className="text-gray-200 font-medium mb-1">Resources</h6>
                 <ul>
@@ -60,7 +75,6 @@ export default function Footer() {
                 </ul>
               </div>
 
-              {/* 4th block */}
               <div className="text-sm">
                 <h6 className="text-gray-200 font-medium mb-1">Company</h6>
                 <ul>
@@ -82,7 +96,7 @@ export default function Footer() {
                 </ul>
               </div>
 
-            </div>
+            </div> */}
 
           </div>
 
