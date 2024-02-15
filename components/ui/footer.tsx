@@ -18,7 +18,9 @@ export default function Footer() {
               </div>
               <div className="text-gray-400">
                 Five Star Hotel Services In Your Residence <br/>
-                Your residential building can be our next client!
+                Your residential building can be our next client! <br/>
+                <br/><br/>
+                https://www.canva.com/p/sparklestroke/
               </div>
             </div>
 

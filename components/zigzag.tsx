@@ -1,8 +1,8 @@
 import Image from 'next/image'
 
-import FeatImage01 from '@/public/images/undraw_business_chat_re_gg4h.svg'
-import FeatImage02 from '@/public/images/undraw_throw_away_re_x60k.svg'
-import FeatImage03 from '@/public/images/undraw_building_re_xfcm.svg'
+import FeatImage01 from '@/public/images/valet-012.png'
+import FeatImage02 from '@/public/images/valet-022.png'
+import FeatImage03 from '@/public/images/valet-032.png'
 
 export default function Zigzag() {
   return (
@@ -157,7 +157,7 @@ export default function Zigzag() {
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>In-house residential services</span>
+                      <span>In-house Residential Services</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -169,8 +169,14 @@ export default function Zigzag() {
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Package Handling and Receiving</span>
-                    </li>                    
+                      <span>Package Room Management, Handling, and Receiving</span>
+                    </li>         
+                    <li className="flex items-center mb-2">
+                      <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+                      </svg>
+                      <span>Post Construction Cleaning</span>
+                    </li>
                   </ul>
                 </div>
               </div>
