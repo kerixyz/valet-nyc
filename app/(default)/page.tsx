@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Valet NYC',
-  description: '',
+  description: 'Five Star Hotel Style Service In Your Residence In New York City',
 }
 
 import Hero from '@/components/hero'

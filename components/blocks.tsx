@@ -1,3 +1,5 @@
+// not used for valet
+
 export default function Blocks() {
   return (
     <section>

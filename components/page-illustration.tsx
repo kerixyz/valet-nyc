@@ -1,3 +1,4 @@
+// not used for valet
 import React from 'react'
 
 export default function PageIllustration() {

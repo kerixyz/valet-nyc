@@ -1,5 +1,3 @@
-import VideoThumb from '@/public/images/hero-image-01.jpg'
-import ModalVideo from '@/components/modal-video'
 import Image from 'next/image'
 
 import logo from '@/public/images/valet-logo.png'
@@ -29,7 +27,7 @@ export default function Hero() {
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
                 <div data-aos="fade-up" data-aos-delay="100">
-                  <Image className="max-w-full mx-auto md:max-w-none h-auto" src={logo} width={300} height={300} alt="Features 01" />
+                  <Image className="max-w-full mx-auto md:max-w-none h-auto" src={logo} width={300} height={300} alt="valet nyc" />
                 </div>
               </div>
             <h1 className="h1 mb-4" data-aos="fade-up">Valet NYC</h1>

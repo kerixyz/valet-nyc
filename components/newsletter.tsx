@@ -1,3 +1,4 @@
+// not used for valet
 export default function Newsletter() {
   return (
     <section>

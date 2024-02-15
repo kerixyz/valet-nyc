@@ -1,3 +1,4 @@
+// not used for valet
 import Image from 'next/image'
 
 import TestimonialImage01 from '@/public/images/testimonial-01.jpg'
