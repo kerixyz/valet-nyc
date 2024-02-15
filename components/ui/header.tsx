@@ -1,5 +1,8 @@
 import Link from 'next/link'
 import MobileMenu from './mobile-menu'
+import Image from 'next/image'
+import Logo from '@/public/images/valet-logo.png'
+
 
 export default function Header() {
   return (
