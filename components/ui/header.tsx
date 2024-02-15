@@ -28,7 +28,7 @@ export default function Header() {
                 </Link>
               </li> */}
               <li>
-                <Link href="/signup" className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
+                <Link href="mailto:info@valetnyc.com" className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
                   Contact Us
                 </Link>
               </li>
